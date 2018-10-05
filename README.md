@@ -22,7 +22,7 @@ If you use this dataset in an academic context, please cite the following public
     @inproceedings{Minami2018ICHR,
       author = {Minami Shiguematsu, Yukitoshi and Brandao, Martim and Hashimoto, Kenji and Takanishi, Atsuo},
       title = {Effects of Biped Humanoid Robot Walking Gaits on Sparse Visual Odometry Algorithms},
-      booktitle = {IEEE/RAS International Conference on Humanoid Robots (Humanoids)},
+      booktitle = {Humanoid {Robots} ({Humanoids}), 2018 18th {IEEE}-{RAS} {International} {Conference} on},
       year = {2018}
     }
 
