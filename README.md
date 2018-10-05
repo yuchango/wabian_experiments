@@ -14,3 +14,15 @@ The datasets are diveded by step length (sl). Inside each step length folder the
 
 The datasets can be found in the following link:
 https://_NOTYET.drive.google.com/drive/folders/1n8to_4acDg6YZEMJ1_H0k4SodmGWwdXX?usp=sharing
+
+# **Citing**
+
+If you use this dataset in an academic context, please cite the following publication:
+
+    @inproceedings{Minami2018ICHR,
+      author = {Minami Shiguematsu, Yukitoshi and Brandao, Martim and Hashimoto, Kenji and Takanishi, Atsuo},
+      title = {Effects of Biped Humanoid Robot Walking Gaits on Sparse Visual Odometry Algorithms},
+      booktitle = {IEEE/RAS International Conference on Humanoid Robots (Humanoids)},
+      year = {2018}
+    }
+
