@@ -6,7 +6,7 @@ The reference walking cadence was fixed to 0.96 s/step, 0.06 seconds for double 
 All patterns were executed on the robot by joint position control without any state estimation (i.e. assuming the reference trajectory of the base was executed perfectly). The motion capture and robot's joints, force, IMU and image data were stored and later analyzed
 
 The datasets are diveded by step length (sl). Inside each step length folder there are three subfolders:
-* *ROS_bags*: The robot sensor data was saved as rosbags, which contain the camera images and IMU data. *(Coming soon)*
+* *ROS_bags*: The robot sensor data was saved as rosbags, which contain the camera images and IMU data. **(Coming soon)**
 * *pattern*: The response csv files contain the data from each joint encoder (*\*\_jt.csv*), as well as the data from the force/torque sensors mounted on the robot's feet (*\*\_jr.csv*).
 * *mocap*: The ground truth csv files contain the position and orientation data from the camera rigid body, as well as the position from each of the markers.
 
